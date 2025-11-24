@@ -1,0 +1,15 @@
+📦 Mi primer repositorio para trabajo 3
+│
+├── 📄 algoritmo_genético.ipynb
+│
+├── 📄 calculadora.py
+│
+├── 📄 calendario_planificador.py
+│
+├── 📄 explicación_calculadora.ipynb
+│
+├── 📄 explicación_calendario_turnos.ipynb
+│
+├── 📄 gráfico.ipynb
+│
+└── 🖼️ jerry.png
